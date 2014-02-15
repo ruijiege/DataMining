@@ -1,0 +1,12 @@
+Group members: czhang28 50061505, wzheng4 50026424, ruijiege 50062092
+
+Run instructions:
+1. Please run:
+  python main.py
+
+2. Enter the min support you want to find
+
+3. Enter the query, the format query should like:
+  RULE HAS (ANY) OF (G1_UP, G2_DOWN) AND SIZEOF BODY >= 2
+
+  Please pay attention to the parentheses!
